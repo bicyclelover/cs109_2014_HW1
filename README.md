@@ -7,3 +7,5 @@ experience with pandas, however I recognize that building data sets is a very va
 so I will probably take a case by case approach, depending on how interesting the questions being asked are.
 
 The data for the second problem isn't available, so I'm going to move on to the second homework assignment.
+
+Kyle is very proud of you!
